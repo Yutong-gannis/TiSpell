@@ -82,11 +82,10 @@ python main.py
 ```
 
 ## ⚙️ Configuration
-You can customize training and evaluation parameters in configs/train.yaml or configs/eval.yaml, including:
-+ Backbone model
+You can customize training and evaluation parameters in option.py, including:
 + Learning rate / Batch size
 + Training epochs
-+ Masking strategy
++ Weight decay
 
 
 
