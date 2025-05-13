@@ -24,40 +24,25 @@
 ---
 
 ## 🗂️ Project Structure
-
+```
 TiSpell/
-
 ├── dataloader/ # Data loading utilities
-
 ├── dataset/ # Preprocessed and raw datasets
-
 ├── images/ # Visualizations
-
 ├── model/ # Model architecture
-
 ├── pretrained_models/ # Checkpoints and pre-trained weights
-
 ├── scripts/ # Training and evaluation scripts
-
 ├── LICENSE
-
 ├── README.md
-
 ├── compute_parameter.py # Parameter counting utility
-
 ├── data_analysis.py # Exploratory data analysis
-
 ├── infer.py # Inference script
-
 ├── metrics.py # Evaluation metrics
-
 ├── option.py # Argument parsing
-
 ├── plot.py # Visualization utilities
-
 ├── train.py # Training script
-
 └── requirements.txt # Python dependencies
+```
 
 ---
 
@@ -70,40 +55,25 @@ pip install -r requirements.txt
 ```
 ### 📁 2. Prepare Dataset
 Download the Tibetan News Classification dataset from (Huggingface)[https://huggingface.co/datasets/UTibetNLP/tibetan_news_classification] and place it under the dataset/ directory. Ensure that the dataset is formatted in the following structure:
+```
 TiSpell/
-
 └── dataset/
-
     └── tibetan_news_classification/
-    
         ├── 政务类
-        
         ├── 教育类
-        
         ├── 文化类
-        
         ├── 旅游类
-        
         ├── 时政类
-        
         ├── 民生类
-        
         ├── 法律类
-        
         ├── 科技类
-        
         ├── 经济类
-        
         └── 艺术类
-        
             ├── 0.txt
-            
             ├── 1.txt
-            
             ├── 2.txt
-            
             └── ...
-
+```
 
 
 ### 🏋️‍♂️ 3. Train the Model
