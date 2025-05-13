@@ -26,21 +26,37 @@
 ## 🗂️ Project Structure
 
 TiSpell/
+
 ├── dataloader/ # Data loading utilities
+
 ├── dataset/ # Preprocessed and raw datasets
+
 ├── images/ # Visualizations
+
 ├── model/ # Model architecture
+
 ├── pretrained_models/ # Checkpoints and pre-trained weights
+
 ├── scripts/ # Training and evaluation scripts
+
 ├── LICENSE
+
 ├── README.md
+
 ├── compute_parameter.py # Parameter counting utility
+
 ├── data_analysis.py # Exploratory data analysis
+
 ├── infer.py # Inference script
+
 ├── metrics.py # Evaluation metrics
+
 ├── option.py # Argument parsing
+
 ├── plot.py # Visualization utilities
+
 ├── train.py # Training script
+
 └── requirements.txt # Python dependencies
 
 ---
