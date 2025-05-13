@@ -1,7 +1,9 @@
 # TiSpell: A Semi-Masked Methodology for Tibetan Spelling Correction
 
-**📄 Paper**: _TiSpell: A Semi-Masked Methodology for Tibetan Spelling Correction covering Multi-Level Error with Data Augmentation_  
+**📄 Paper**: _TiSpell: A Semi-Masked Methodology for Tibetan Spelling Correction covering Multi-Level Error with Data Augmentation_
+
 **🧑‍💻 Author**: Yutong Liu, Xiao Feng, Ziyue Zhang, Yongbin Yu*, Cheng Huang, Fan Gao, Xiangxiang Wang*, Ban Ma-bao, Manping Fan, Thupten Tsering, Gadeng Luosang, Renzeng Duojie, Nyima Tashi
+
 **📦 Repository**: Official implementation of TiSpell.
 
 ---
