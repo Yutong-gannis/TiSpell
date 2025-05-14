@@ -92,11 +92,14 @@ You can customize training and evaluation parameters in option.py, including:
 ## 📌 Citation
 If you find TiSpell helpful in your research, please cite our work:
 ```
-@article{yourname2025tispell,
-  title={TiSpell: A Semi-Masked Methodology for Tibetan Spelling Correction covering Multi-Level Error with Data Augmentation},
-  author={Yutong Liu, Xiao Feng, Ziyue Zhang, Yongbin Yu, Cheng Huang, Fan Gao, Xiangxiang Wang, Ban Ma-bao, Manping Fan, Thupten Tsering, Gadeng Luosang, Renzeng Duojie, Nyima Tashi},
-  year={2025},
-  journal={arXiv preprint arXiv:xxxx.xxxxx}
+@misc{liu2025tispellsemimaskedmethodologytibetan,
+      title={TiSpell: A Semi-Masked Methodology for Tibetan Spelling Correction covering Multi-Level Error with Data Augmentation}, 
+      author={Yutong Liu and Feng Xiao and Ziyue Zhang and Yongbin Yu and Cheng Huang and Fan Gao and Xiangxiang Wang and Ma-bao Ban and Manping Fan and Thupten Tsering and Cheng Huang and Gadeng Luosang and Renzeng Duojie and Nyima Tashi},
+      year={2025},
+      eprint={2505.08037},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.08037}, 
 }
 ```
 
