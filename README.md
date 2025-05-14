@@ -54,7 +54,7 @@ TiSpell/
 pip install -r requirements.txt
 ```
 ### 📁 2. Prepare Dataset
-Download the Tibetan News Classification dataset from (Huggingface)[https://huggingface.co/datasets/UTibetNLP/tibetan_news_classification] and place it under the dataset/ directory. Ensure that the dataset is formatted in the following structure:
+Download the Tibetan News Classification dataset from [(Huggingface)https://huggingface.co/datasets/UTibetNLP/tibetan_news_classification] and place it under the dataset/ directory. Ensure that the dataset is formatted in the following structure:
 ```
 TiSpell/
 └── dataset/
